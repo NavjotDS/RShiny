@@ -40,9 +40,9 @@ To explore the data, we have used data visualization techniques like pie chart, 
 6. Using the Independent Samples t-test, we could conclude that the development status of a country affected the number of immigrants from that country till 1983. The difference between the number of immigrants from developed and developing nations was not significant from 1984 to 2013.
 
 ## References
-
-[1] World Life Expectancy, https://www.worldlifeexpectancy.com/canada-life-expectancy
-[2] Government of Canada, https://www.canada.ca/en/immigration-refugees-citizenship/ campaigns/immigration-matters/track-record.html
-[3] Statistics Canada, 2022, https://www150.statcan.gc.ca/n1/daily-quotidien/221026/ dq221026a-eng.htm
-[4] WorldAtlas, https://www.worldatlas.com/geography/continents-by-number-of-countries.html [5] Kaggle, https://www.kaggle.com/datasets/danishasif/canada-immigratation
+[1] World Life Expectancy, https://www.worldlifeexpectancy.com/canada-life-expectancy  
+[2] Government of Canada, https://www.canada.ca/en/immigration-refugees-citizenship/ campaigns/immigration-matters/track-record.html  
+[3] Statistics Canada, 2022, https://www150.statcan.gc.ca/n1/daily-quotidien/221026/ dq221026a-eng.htm  
+[4] WorldAtlas, https://www.worldatlas.com/geography/continents-by-number-of-countries.html  
+[5] Kaggle, https://www.kaggle.com/datasets/danishasif/canada-immigratation  
 [6] Statstutor, The Statistics Tutor’s Quick Guide to Commonly Used Statistical Tests. https:// www.statstutor.ac.uk/resources/uploaded/tutorsquickguidetostatistics.pdf
